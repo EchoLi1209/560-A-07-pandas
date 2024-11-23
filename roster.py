@@ -3,4 +3,5 @@
 roster = [ "Claude" , "Brown" , "Hawkins" , "RJ Davis" , "Tyson" , "E.Davis" , 
          "Withers" , "Powell" , "Jackson" , "Washington" ]
 
-print(roster)
+for player in roster:
+  print(player)
